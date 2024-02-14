@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dealwithmuhammad" alt="dealwithmuhammad" /></a> </p>
 
 - 🔭 I’m currently working on [ReAct NGO Project](https://reactmalaysia.vercel.app)
 
